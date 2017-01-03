@@ -1,17 +1,36 @@
 \documentclass[a4paper,12pt]{article}
+\usepackage[english]{babel}
 \usepackage{subfiles}
+\usepackage{blindtext}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\geometry{text={7in,9.5in}
+,headheight=15pt
+,headsep=0.1in
+,includehead
+}
+
 
 \begin{document}
-  Hello World!
+  \setlength{\parskip}{\baselineskip}
+
+  %Titlepage
+  \subfile{content/Rizilab-Cover}
+
+  %Header
+  \pagestyle{fancy}
+  \fancyhf{}
+  \rhead{Business Proposal}
+  \lhead{PT Rizary Islami Teknologi}
+  \rfoot{Halaman \thepage}
 
 
-\subfile{Rizilab-Pembukaan}
+  %Halaman pembuka
+  \subfile{content/Rizilab-Pembukaan}
 
-
-\subfile{Rizilab-Rencana}
-
-  normal text {\itshape walzing \bfseries Wombat} more normal text
-  normal text \bgroup\itshape walzing \bfseries Wombat\egroup{} more normal text
+  %Halaman rencana
+  \subfile{content/Rizilab-Rencana}
 
 
 \end{document}
