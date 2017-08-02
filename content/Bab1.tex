@@ -1,0 +1,85 @@
+
+\documentclass[pi.tex]{subfile}
+\begin{document}
+\chapter{PENDAHULUAN}
+\section{Latar Belakang Masalah}
+Perkembangan ilmu teknologi khususnya dibidang komputasi dan prinsip bahasa pemrograman pada saat ini terus meningkat. Hal ini dikarenakan para pengembang teknologi menginginkan setiap produk yang ia hasilkan memiliki hasil yang maksimal terlebih dalam hal kecepatan serta kemudahan dalam penggunaan. Salah satu contoh yang merupakan bidang komputasi adalah adanya komputasi awan atau yang biasa disebut dengan \emph{Cloud Computing}. Pada prinsip bahasa pemrograman, khususnya dibidang bahasa pemrograman fungsional, prinsip yang sedang berkembang adalah metode pemrograman fungsional yang reaktif atau dikenal dengan \emph{Functional Reactive Programming} dimana dengan penggunaan prinsip ini program yang dibuat akan memberikan efisiensi serta tingkat pemeliharaan (\emph{maintainability}) yang bagus.
+
+Dalam perkembangan komputasi awan, banyak perusahaan pada saat ini yang merubah infrastruktur komputer servernya dari infrastruktur konvensional menuju komputasi awan. Salah satu perusahaan yang terkenal dalam menyediakan jasa komputasi awan yang bersifat publik adalah \emph{Amazon Web Service} atau biasa kita singkat sebagai AWS. AWS memiliki banyak sekali fitur dan layanan komputasi awan yang ditawarkan kepada calon pengembang. Salah satu keunggulan dari AWS adalah cara pembayaran yang berbasis perhitungan jam penggunaan komputer atau server. Hal ini menguntungkan pengembang sehingga apabila komputer dimatikan, maka AWS tidak akan menagihkan pembayaran atas komputer tersebut kepada pengembang. Namun demikian kebutuhan sumber daya untuk suatu web aplikasi yang diakses oleh banyak pengguna seringkali menyebabkan tagihan yang diterima oleh pengembang dari AWS membengkak dan mengakibatkan seolah-olah AWS tidak melakukan transparansi atas tagihan tersebut. Berdasarkan hal tersebut, perlu dibuatnya sebuah aplikasi yang memberikan suatu simulasi penggunaan AWS dan kalkuasi atas biaya yang akan timbul dikemudian hari apabila pengembang menggunakan layanan AWS.
+
+Pembuatan sebuah aplikasi simulasi sebagaimana dimaksud sebelumnya, seringkali mendapat kendala khususnya dalam hal performa dan tingkat pemeliharaan kode program yang menyebabkan pemanfaatan atas aplikasi tersebut menjadi tidak maksimal dan cenderung akan mudah ditinggalkan oleh pengguna. Pengembang aplikasi dalam hal ini bertanggung jawab untuk menempuh cara dan metode untuk menghindari terjadinya kegagalan aplikasi baik dari sisi pengguna maupun pemeliharaan kode program. Bahasa pemrograman fungsional khususnya Haskell merupakan salah satu bahasa pemrograman yang digunakan untuk pengembangan aplikasi. Haskell memiliki tingkat performa yang sangat baik serta tingkat pemeliharaan kodenya pun sangatlah mudah. Hal ini menguntungkan baik dari sisi pengguna maupun pengembang. Dalam penulisan kode program baik menggunakan Haskell ataupun bahasa pemrograman lainnya, prinsip pengembangan aplikasi sangatlah diperhatikan. Penggunaan metode \emph{Functional Reactive Programming} atau dikenal dengan FRP sangat membantu pengembangan aplikasi menggunakan bahasa pemrograman Haskell.
+
+Jika pengembangan Aplikasi Perhitungan Biaya Jasa Amazon AWS (untuk selanjutnya akan disingkat menjadi "Aplikasi") dibuat menggunakan bahasa pemrograman Haskell dengan metode FRP, maka akan dicapainya suatu program yang memiliki performa dan tingkat pemeliharaan yang sangat baik. Berdasarkan pertimbangan tersebut, maka penulis akan membuat sebuah aplikasi dan menuliskannya dalam penelitian ilmiah yang berjudul \emph{Aplikasi Perhitungan Biaya Jasa Amazon AWS Dengan Menggunakan Bahasa Pemrograman Fungsional Haskell Dan Metode Functional Reactive Programming}.
+
+\section{Rumusan Masalah}
+Berdasarkan latar belakang masalah yang telah dijelaskan sebelumnya, maka dapat dirumuskan sebuah permasalahan sebagai berikut:
+\begin{enumerate}
+  \item Bagaimanakah implementasi Bahasa Pemrograman Haskell dengan metode FRP dalam pengembangan Aplikasi?
+  \item Apa keunggulan dan manfaat yang diberikan oleh bahasa pemrograman Haskell dan metode FRP dalam mengembangkan Aplikasi?
+\end{enumerate}
+
+
+\section{Batasan Masalah}
+Batasan masalah pada penulisan ini yaitu:
+\begin{enumerate}
+  \item Membahas simulasi dan kalkulasi layanan jasa AWS yang ada pada situs resmi http://aws.amazon.com/ terbatas pada layanan:
+    \begin{enumerate}
+      
+    \item Amazon EC2
+    \item Amazon S3
+    \item Amazon Route53
+    \item Amazon CloudFront
+    \item Amazon RDS
+    \item Amazon DynamoDB
+    \item Elastic Cache
+    \item Amazon VPC
+    \item Amazon LightSail
+      
+    \end{enumerate}
+    \item Perhitungan jasa AWS yang dijadikan acuan adalah jasa \emph{on-demand service} dari layanan AWS yang disebutkan pada poin sebelumnya
+  \item Bahasa pemrograman yang digunakan adalah Haskell dan pustakanya adalah pustaka reflex dan reflex-dom
+  \item Metode pemrograman yang digunakan adalah pemrograman fungsional reaktif
+  \item Sistem operasi yang digunakan adalah OS X Sierra yang digunakan oleh perangkat bermerk Apple
+  \item Aplikasi berbasis GUI Web
+  \item Design tampilan aplikasi menggunakan \emph{Cascading Style Sheet (CSS)} versi 3
+    
+    
+\end{enumerate}
+
+\section{Tujuan Penulisan}
+Adapun tujuan penulisan ini adalah sebagai berikut:
+\begin{enumerate}
+  \item Untuk mengetahui bagaimana implementasi Bahasa Pemrograman Haskell dengan metode FRP digunakan dalam mengembangkan Aplikasi;
+  \item Untuk mengetahui apa keunggulan dan manfaat yang diberikan oleh bahasa pemrograman Haskell dan metode FRP dalam mengembangkan Aplikasi.
+\end{enumerate}
+
+\section{Metode Penelitian}
+Berikut ini adalah metode penelitian yang diterapkan dalam penulisan ini.
+
+\subsection{Perencanaan}
+Metode ini meliputi perencanaan untuk membuat Aplikasi serta menetapkan struktur dan komponen yang dibuat.
+\subsection{Studi Pustaka}
+Menggunakan studi kepustakaan dengan mengumpulkan bahan melalui buku, situs, jurnal maupun artikel-artikel ilmiah yang mendukung dalam proses pengembangan aplikasi.
+\subsection{Desain Sistem}
+Pembuatan desain sistem menggunakan aplikasi prototype bernama Sketch dan kemudian melakukan penerjemahan kedalam bahasa Haskell dengan perantara pustaka Reflex dan Reflex-Dom.
+\subsection{Pemrograman}
+Teknologi yang digunakan dalam pemrograman ini adalah menggunakan bahasa pemrograman Haskell dan pustaka Reflex serta Reflex-Dom untuk menuliskan program dan kemudian diterjemahkan kedalam bahasa mesin menggunakan alat pengkompilasi GHC sehingga hasil akhirnya adalah sebuah aplikasi desktop yang berbasis GUI dan desain tampak depannya (\emph{frontend}) menggunakan \emph{Cascading Style Sheet} atau biasa dikenal dengan CSS.
+\subsection{Uji Coba}
+Uji coba yang dilakukan terhadap Aplikasi adalah dengan memastikan seluruh tampilan program berjalan sesuai dengan rancangan struktur navigasi Aplikasi. Pengujian juga dilakukan dengan melakukan perhitungan kalkulasi biaya dari masing-masing jasa AWS dilihat dari dokumentasi yang ada untuk kemudian dibandingkan dengan hasil yang didapat oleh Aplikasi baik secara keseluruhan (total biaya) maupun secara terpisah (biaya per jasa).
+
+
+\section{Sistematika Penulisan}
+Sistematika penyajian dari penulisan ini dibagi menjadi 4 bab, yaitu: Pendahuluan, Landasan Teori, Hasil Penelitian dan Analisa, dan Penutup. Gambaran umum tentang isi dari setiap bab adalah:
+
+BAB 1 yaitu pendahuluan dimana bab ini berisikan latar belakang masalah, tujuan penulisan, metode penelitian dan sistematika penulisan pada penulisan ini.
+
+
+BAB 2 mengenai landasan teori yang berisikan teor-teori yang digunakan dalam pengembangan dan pembuatan aplikasi dalam penelitian ini.
+
+
+BAB 3 membahas metode hasil penelitian dan analisa, pada bab ini berisikan penjelasan mengenai proses perancangan serta analisa sistem atas pembuatan aplikasi.
+
+
+BAB 4 diakhiri dengan penutup, yaiu pada bab ini berisikan kesimpulan yang diperoleh dari hasil pembahasan dan analisa yang telah dituliskan pada bab-bab sebelumnya, serta berisikan saran atas aplikasi yang telah dibuat.
+
+\end{document}

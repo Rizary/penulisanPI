@@ -1,0 +1,24 @@
+\documentclass[pi.tex]{subfile}
+\begin{document}
+
+\chapter{KESIMPULAN DAN SARAN}
+
+\section{Kesimpulan}
+
+Berdasarkan pembahasan pada bab-bab terdahulu, berikut adalah kesimpulan yang dapat diperoleh:
+\begin{enumerate}
+\item Dalam mengembangkan sebuah aplikasi desktop GUI dengan menggunakan Teknologi Web khususnya Aplikasi pada penelitian ini, bahasa pemrograman Haskell dengan menggunakan metode FRP dapat diimplementasikan untuk membuat tampilan depan (\emph{frontend}) Aplikasi dengan memanfaatkan pustaka Reflex dan Reflex-Dom. Pustaka dimaksud memberikan kemampuan pengembang untuk menuliskan atau menyusun elemen-elemen yang dibutuhkan pada sebuah aplikasi seperti tombol, gambar, dan lain sebagainya, serta juga mampu untuk melakukan manipulasi atas beberapa nilai dari atribut dan/atau elemen untuk memberikan sebuah interaksi antarmuka pengguna yang dinamis.
+\item Penggunaan bahasa pemrograman Haskell untuk mengembangkan sebuah aplikasi desktop GUI memberikan keunggulan yang tidak dimiliki oleh bahasa pemrograman lainnya diantaranya dengan fitur \emph{type system} yang dimiliki oleh bahasa pemrograman Haskell, fungsi-fungsi yang menyusun sebuah program tidak akan memberikan efek tak terduga ketika program dijalankan. Hal ini juga merupakan keunggulan Haskell sebagai \emph{staticly type} language, dimana kode program Haskell akan diperiksa pada saat kompilasi. Hal ini memberikan manfaat  berupa tereduksinya kemungkinan error/bug yang akan ditimbulkan pada saat program berjalan. Keunggulan lainnya adalah pada bahasa pemrograman Haskell, pustaka Reflex dan Reflex-Dom dengan metode FRP memberikan kemampuan program yang dibuat untuk bekerja secara dinamis tanpa harus memanfaatkan fungsi pemanggilan kembali (\emph{callback function}) melainkan dengan mengandalkan suatu kejadian (\emph{event}) untuk menentukan perubahan suatu nilai yang terkandung pada sebuah variabel. Hal ini memberikan manfaat bagi pengembang agar terhindar dari pendeklarasian fungsi pemanggilan kembali  berlapis (\emph{nested callback function}) yang tidak terkendali.
+  
+\end{enumerate}
+
+\section{Saran}
+Penulisan ilmiah ini tentunya masih sangat jauh dari sempurna, sehingga perlu adanya saran agar dikemudian hari dapat dituliskan penulisan ilmiah lain sebagai pendukung atau penambah hasil penulisan ilmiah ini. Saran yang dapat diberikan antara lain:
+\begin{enumerate}
+  \item Perlu adanya integrasi antara Aplikasi yang dikembangkan dengan metode FRP dan Pemrograman Fungsional melalui koneksi ke sebuah server secara online.
+  \item Aplikasi diharapkan dapat terkoneksi dengan database dan dimungkinkan untuk menyimpan data user dalam bentuk ID dan Password
+  \item Pengembangan aplikasi GUI dengan metode FRP diharapkan dapat dilakukan dengan menggunakan bahasa pemrograman fungsional lainnya
+\end{enumerate}
+
+
+\end{document}
