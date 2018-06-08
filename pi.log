@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.9)  2 AUG 2017 08:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.9)  2 SEP 2017 08:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -76,9 +76,6 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/indentfirst.sty
-Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box26
@@ -120,9 +117,6 @@ File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/helvet.sty
-Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
-)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/newtxtext.sty
 Package: newtxtext 2017/03/11 v1.521
 
@@ -416,53 +410,14 @@ LaTeX Font Info:    Redeclaring math delimiter \lVert on input line 535.
 LaTeX Font Info:    Redeclaring math delimiter \rVert on input line 536.
 LaTeX Info: Redefining \not on input line 2099.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/ms/ragged2e.sty
-Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
-
-
-LaTeX Warning: Command \@arrayparboxrestore  has changed.
-               Check if current package is valid.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/ms/everysel.sty
-Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/footmisc/footmisc.sty
-Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks26
-\footnotemargin=\dimen123
-\c@pp@next@reset=\count130
-Package footmisc Info: Declaring symbol style bringhurst on input line 855.
-Package footmisc Info: Declaring symbol style chicago on input line 863.
-Package footmisc Info: Declaring symbol style wiley on input line 872.
-Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
-
-Package footmisc Info: Declaring symbol style lamport* on input line 903.
-Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
-.
-)
-\CenteringLeftskip=\skip48
-\RaggedLeftLeftskip=\skip49
-\RaggedRightLeftskip=\skip50
-\CenteringRightskip=\skip51
-\RaggedLeftRightskip=\skip52
-\RaggedRightRightskip=\skip53
-\CenteringParfillskip=\skip54
-\RaggedLeftParfillskip=\skip55
-\RaggedRightParfillskip=\skip56
-\JustifyingParfillskip=\skip57
-\CenteringParindent=\skip58
-\RaggedLeftParindent=\skip59
-\RaggedRightParindent=\skip60
-\JustifyingParindent=\skip61
-)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
-\pgfutil@everybye=\toks27
-\pgfutil@tempdima=\dimen124
-\pgfutil@tempdimb=\dimen125
+\pgfutil@everybye=\toks26
+\pgfutil@tempdima=\dimen123
+\pgfutil@tempdimb=\dimen124
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
 sts.tex))
@@ -499,39 +454,39 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count131
+\Gread@gobject=\count130
 ))
-\Gin@req@height=\dimen126
-\Gin@req@width=\dimen127
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks28
-\pgfkeys@temptoks=\toks29
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
 ode.tex
-\pgfkeys@tmptoks=\toks30
+\pgfkeys@tmptoks=\toks29
 ))
-\pgf@x=\dimen128
-\pgf@y=\dimen129
-\pgf@xa=\dimen130
-\pgf@ya=\dimen131
-\pgf@xb=\dimen132
-\pgf@yb=\dimen133
-\pgf@xc=\dimen134
-\pgf@yc=\dimen135
+\pgf@x=\dimen127
+\pgf@y=\dimen128
+\pgf@xa=\dimen129
+\pgf@ya=\dimen130
+\pgf@xb=\dimen131
+\pgf@yb=\dimen132
+\pgf@xc=\dimen133
+\pgf@yc=\dimen134
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count132
-\c@pgf@countb=\count133
-\c@pgf@countc=\count134
-\c@pgf@countd=\count135
-\t@pgf@toka=\toks31
-\t@pgf@tokb=\toks32
-\t@pgf@tokc=\toks33
+\c@pgf@counta=\count131
+\c@pgf@countb=\count132
+\c@pgf@countc=\count133
+\c@pgf@countd=\count134
+\t@pgf@toka=\toks30
+\t@pgf@tokb=\toks31
+\t@pgf@tokc=\toks32
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
@@ -549,8 +504,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count136
-\pgfsyssoftpath@bigbuffer@items=\count137
+\pgfsyssoftpath@smallbuffer@items=\count135
+\pgfsyssoftpath@bigbuffer@items=\count136
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
@@ -578,12 +533,12 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen136
-\pgfmath@count=\count138
+\pgfmath@dimen=\dimen135
+\pgfmath@count=\count137
 \pgfmath@box=\box32
-\pgfmath@toks=\toks34
-\pgfmath@stack@operand=\toks35
-\pgfmath@stack@operation=\toks36
+\pgfmath@toks=\toks33
+\pgfmath@stack@operand=\toks34
+\pgfmath@stack@operation=\toks35
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
 tex
@@ -604,37 +559,37 @@ code.tex)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
 erarithmetics.code.tex)))
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count139
+\c@pgfmathroundto@lastzeros=\count138
 ))
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen137
-\pgf@picmaxx=\dimen138
-\pgf@picminy=\dimen139
-\pgf@picmaxy=\dimen140
-\pgf@pathminx=\dimen141
-\pgf@pathmaxx=\dimen142
-\pgf@pathminy=\dimen143
-\pgf@pathmaxy=\dimen144
-\pgf@xx=\dimen145
-\pgf@xy=\dimen146
-\pgf@yx=\dimen147
-\pgf@yy=\dimen148
-\pgf@zx=\dimen149
-\pgf@zy=\dimen150
+\pgf@picminx=\dimen136
+\pgf@picmaxx=\dimen137
+\pgf@picminy=\dimen138
+\pgf@picmaxy=\dimen139
+\pgf@pathminx=\dimen140
+\pgf@pathmaxx=\dimen141
+\pgf@pathminy=\dimen142
+\pgf@pathmaxy=\dimen143
+\pgf@xx=\dimen144
+\pgf@xy=\dimen145
+\pgf@yx=\dimen146
+\pgf@yy=\dimen147
+\pgf@zx=\dimen148
+\pgf@zy=\dimen149
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen151
-\pgf@path@lasty=\dimen152
+\pgf@path@lastx=\dimen150
+\pgf@path@lasty=\dimen151
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
 .code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen153
-\pgf@shorten@start@additional=\dimen154
+\pgf@shorten@end@additional=\dimen152
+\pgf@shorten@start@additional=\dimen153
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
@@ -642,19 +597,19 @@ File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box33
 \pgf@hbox=\box34
 \pgf@layerbox@main=\box35
-\pgf@picture@serial@count=\count140
+\pgf@picture@serial@count=\count139
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen155
+\pgflinewidth=\dimen154
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
 ations.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen156
-\pgf@pt@y=\dimen157
-\pgf@pt@temp=\dimen158
+\pgf@pt@x=\dimen155
+\pgf@pt@y=\dimen156
+\pgf@pt@temp=\dimen157
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
 e.tex
@@ -671,13 +626,13 @@ File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
 de.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen159
+\pgfarrowsep=\dimen158
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
 e.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen160
-\pgf@sys@shading@range@num=\count141
+\pgf@max=\dimen159
+\pgf@sys@shading@range@num=\count140
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
@@ -712,8 +667,8 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen161
-\pgf@nodesepend=\dimen162
+\pgf@nodesepstart=\dimen160
+\pgf@nodesepend=\dimen161
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
@@ -728,10 +683,10 @@ Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen163
-\pgffor@skip=\dimen164
-\pgffor@stack=\toks37
-\pgffor@toks=\toks38
+\pgffor@iter=\dimen162
+\pgffor@skip=\dimen163
+\pgffor@stack=\toks36
+\pgffor@toks=\toks37
 ))
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
 e.tex
@@ -740,32 +695,32 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count142
-\pgfplotmarksize=\dimen165
+\pgf@plot@mark@count=\count141
+\pgfplotmarksize=\dimen164
 )
-\tikz@lastx=\dimen166
-\tikz@lasty=\dimen167
-\tikz@lastxsaved=\dimen168
-\tikz@lastysaved=\dimen169
-\tikzleveldistance=\dimen170
-\tikzsiblingdistance=\dimen171
+\tikz@lastx=\dimen165
+\tikz@lasty=\dimen166
+\tikz@lastxsaved=\dimen167
+\tikz@lastysaved=\dimen168
+\tikzleveldistance=\dimen169
+\tikzsiblingdistance=\dimen170
 \tikz@figbox=\box38
 \tikz@figbox@bg=\box39
 \tikz@tempbox=\box40
 \tikz@tempbox@bg=\box41
-\tikztreelevel=\count143
-\tikznumberofchildren=\count144
-\tikznumberofcurrentchild=\count145
-\tikz@fig@count=\count146
+\tikztreelevel=\count142
+\tikznumberofchildren=\count143
+\tikznumberofcurrentchild=\count144
+\tikz@fig@count=\count145
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count147
-\pgfmatrixcurrentcolumn=\count148
-\pgf@matrix@numberofcolumns=\count149
+\pgfmatrixcurrentrow=\count146
+\pgfmatrixcurrentcolumn=\count147
+\pgf@matrix@numberofcolumns=\count148
 )
-\tikz@expandcount=\count150
+\tikz@expandcount=\count149
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
@@ -850,40 +805,40 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
 code.tex
 File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
-\arrowsize=\dimen172
+\arrowsize=\dimen171
 )) (/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count151
-\float@exts=\toks39
+\c@float@type=\count150
+\float@exts=\toks38
 \float@box=\box62
-\@float@everytoks=\toks40
+\@float@everytoks=\toks39
 \@floatcapt=\box63
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip62
-\enit@outerparindent=\dimen173
-\enit@toks=\toks41
+\labelindent=\skip48
+\enit@outerparindent=\dimen172
+\enit@toks=\toks40
 \enit@inbox=\box64
-\enitdp@description=\count152
+\enitdp@description=\count151
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip63
-\LTright=\skip64
-\LTpre=\skip65
-\LTpost=\skip66
-\LTchunksize=\count153
-\LTcapwidth=\dimen174
+\LTleft=\skip49
+\LTright=\skip50
+\LTpre=\skip51
+\LTpost=\skip52
+\LTchunksize=\count152
+\LTcapwidth=\dimen173
 \LT@head=\box65
 \LT@firsthead=\box66
 \LT@foot=\box67
 \LT@lastfoot=\box68
-\LT@cols=\count154
-\LT@rows=\count155
-\c@LT@tables=\count156
-\c@LT@chunks=\count157
-\LT@p@ftn=\toks42
+\LT@cols=\count153
+\LT@rows=\count154
+\c@LT@tables=\count155
+\c@LT@chunks=\count156
+\LT@p@ftn=\toks41
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
@@ -936,14 +891,14 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen175
-\Hy@linkcounter=\count158
-\Hy@pagecounter=\count159
+\@linkdim=\dimen174
+\Hy@linkcounter=\count157
+\Hy@pagecounter=\count158
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count160
+\Hy@SavedSpaceFactor=\count159
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -955,17 +910,17 @@ Package hyperref Info: Plain pages OFF on input line 4513.
 Package hyperref Info: Backreferencing OFF on input line 4518.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4751.
-\c@Hy@tempcnt=\count161
+\c@Hy@tempcnt=\count160
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5104.
-\XeTeXLinkMargin=\dimen176
-\Fld@menulength=\count162
-\Field@Width=\dimen177
-\Fld@charsize=\dimen178
+\XeTeXLinkMargin=\dimen175
+\Fld@menulength=\count161
+\Field@Width=\dimen176
+\Fld@charsize=\dimen177
 Package hyperref Info: Hyper figures OFF on input line 6358.
 Package hyperref Info: Link nesting OFF on input line 6363.
 Package hyperref Info: Hyper index ON on input line 6366.
@@ -975,77 +930,92 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6383.
 Package hyperref Info: PDF/A mode OFF on input line 6388.
 LaTeX Info: Redefining \ref on input line 6428.
 LaTeX Info: Redefining \pageref on input line 6432.
-\Hy@abspage=\count163
-\c@Item=\count164
-\c@Hfootnote=\count165
+\Hy@abspage=\count162
+\c@Item=\count163
+\c@Hfootnote=\count164
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
-\Fld@listcount=\count166
-\c@bookmark@seq@number=\count167
+\Fld@listcount=\count165
+\c@bookmark@seq@number=\count166
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip67
+\Hy@SectionHShift=\skip53
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 36.
+Package hyperref Info: Option `colorlinks' set `true' on input line 34.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count168
-\Gm@cntv=\count169
-\c@Gm@tempcnt=\count170
-\Gm@bindingoffset=\dimen179
-\Gm@wd@mp=\dimen180
-\Gm@odd@mp=\dimen181
-\Gm@even@mp=\dimen182
-\Gm@layoutwidth=\dimen183
-\Gm@layoutheight=\dimen184
-\Gm@layouthoffset=\dimen185
-\Gm@layoutvoffset=\dimen186
-\Gm@dimlist=\toks43
-)
-
-Package geometry Warning: Over-specification in `h'-direction.
-    `width' (505.89pt) is ignored.
-
-
-Package geometry Warning: Over-specification in `v'-direction.
-    `height' (686.56499pt) is ignored.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
-\fancy@headwidth=\skip68
-\f@ncyO@elh=\skip69
-\f@ncyO@erh=\skip70
-\f@ncyO@olh=\skip71
-\f@ncyO@orh=\skip72
-\f@ncyO@elf=\skip73
-\f@ncyO@erf=\skip74
-\f@ncyO@olf=\skip75
-\f@ncyO@orf=\skip76
-)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
-\mylen=\skip77
+\mylen=\skip54
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/nowidow/nowidow.sty
 Package: nowidow 2011/09/20 1.0 Easily prevent widows and orphans
 Package: nowidow 
 )
-\subsec=\skip78
-\subsub=\skip79
+\subsec=\skip55
+\subsub=\skip56
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
-Package: setspace 2011/12/19 v6.7a set line spacing
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip57
+\cftbeforetoctitleskip=\skip58
+\cftaftertoctitleskip=\skip59
+\cftbeforepartskip=\skip60
+\cftpartnumwidth=\skip61
+\cftpartindent=\skip62
+\cftbeforechapskip=\skip63
+\cftchapindent=\skip64
+\cftchapnumwidth=\skip65
+\cftbeforesecskip=\skip66
+\cftsecindent=\skip67
+\cftsecnumwidth=\skip68
+\cftbeforesubsecskip=\skip69
+\cftsubsecindent=\skip70
+\cftsubsecnumwidth=\skip71
+\cftbeforesubsubsecskip=\skip72
+\cftsubsubsecindent=\skip73
+\cftsubsubsecnumwidth=\skip74
+\cftbeforeparaskip=\skip75
+\cftparaindent=\skip76
+\cftparanumwidth=\skip77
+\cftbeforesubparaskip=\skip78
+\cftsubparaindent=\skip79
+\cftsubparanumwidth=\skip80
+\cftbeforeloftitleskip=\skip81
+\cftafterloftitleskip=\skip82
+\cftbeforefigskip=\skip83
+\cftfigindent=\skip84
+\cftfignumwidth=\skip85
+\c@lofdepth=\count167
+\c@lotdepth=\count168
+\cftbeforelottitleskip=\skip86
+\cftafterlottitleskip=\skip87
+\cftbeforetabskip=\skip88
+\cfttabindent=\skip89
+\cfttabnumwidth=\skip90
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count169
+\calc@Bcount=\count170
+\calc@Adimen=\dimen178
+\calc@Bdimen=\dimen179
+\calc@Askip=\skip91
+\calc@Bskip=\skip92
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count171
+\calc@Cskip=\skip93
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
@@ -1053,94 +1023,156 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang2.sty
 File: lstlang2.sty 2015/06/04 1.6 listings language file
 )
+(/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count172
+\Gm@cntv=\count173
+\c@Gm@tempcnt=\count174
+\Gm@bindingoffset=\dimen180
+\Gm@wd@mp=\dimen181
+\Gm@odd@mp=\dimen182
+\Gm@even@mp=\dimen183
+\Gm@layoutwidth=\dimen184
+\Gm@layoutheight=\dimen185
+\Gm@layouthoffset=\dimen186
+\Gm@layoutvoffset=\dimen187
+\Gm@dimlist=\toks42
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip94
+\f@ncyO@elh=\skip95
+\f@ncyO@erh=\skip96
+\f@ncyO@olh=\skip97
+\f@ncyO@orh=\skip98
+\f@ncyO@elf=\skip99
+\f@ncyO@erf=\skip100
+\f@ncyO@olf=\skip101
+\f@ncyO@orf=\skip102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
-Package geometry Warning: Over-specification in `h'-direction.
-    `width' (505.89pt) is ignored.
 
+LaTeX Warning: Command \@arrayparboxrestore  has changed.
+               Check if current package is valid.
 
-Package geometry Warning: Over-specification in `v'-direction.
-    `height' (686.56499pt) is ignored.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks43
+\footnotemargin=\dimen188
+\c@pp@next@reset=\count175
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
 
-LaTeX Font Info:    Try loading font information for T1+ntxtlf on input line 17
-0.
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+\CenteringLeftskip=\skip103
+\RaggedLeftLeftskip=\skip104
+\RaggedRightLeftskip=\skip105
+\CenteringRightskip=\skip106
+\RaggedLeftRightskip=\skip107
+\RaggedRightRightskip=\skip108
+\CenteringParfillskip=\skip109
+\RaggedLeftParfillskip=\skip110
+\RaggedRightParfillskip=\skip111
+\JustifyingParfillskip=\skip112
+\CenteringParindent=\skip113
+\RaggedLeftParindent=\skip114
+\RaggedRightParindent=\skip115
+\JustifyingParindent=\skip116
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+LaTeX Font Info:    Try loading font information for T1+ntxtlf on input line 21
+8.
+
 (/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
 File: t1ntxtlf.fd 2015/01/17 v1.0 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 170.
+(Font)              scaled to size 12.0pt on input line 218.
  (./pi.aux)
 \openout1 = `pi.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 170.
-LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 17
-0.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 218.
+LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 21
+8.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 170.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 170
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 218.
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 218.
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 218.
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 218.
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 218.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 218
 .
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 170.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 170.
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 218.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 218.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 170.
-LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 17
-0.
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 218.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 21
+8.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 170.
-LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 1
-70.
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 218.
+LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 2
+18.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-\c@lstlisting=\count171
-\c@mv@tabular=\count172
-\c@mv@boldtabular=\count173
-Package ragged2e Info: ABD: executing \RaggedRight on input line 170.
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 218.
+LaTeX Font Info:    ... okay on input line 218.
+\c@lstlisting=\count176
+\c@mv@tabular=\count177
+\c@mv@boldtabular=\count178
 
-ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 170.
- ABD: EveryShipout initializing macros
+ABD: EveryShipout initializing macros
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count174
-\scratchdimen=\dimen187
+\scratchcounter=\count179
+\scratchdimen=\dimen189
 \scratchbox=\box69
-\nofMPsegments=\count175
-\nofMParguments=\count176
+\nofMPsegments=\count180
+\nofMParguments=\count181
 \everyMPshowfont=\toks44
-\MPscratchCnt=\count177
-\MPscratchDim=\dimen188
-\MPnumerator=\count178
-\makeMPintoPDFobject=\count179
+\MPscratchCnt=\count182
+\MPscratchDim=\dimen190
+\MPnumerator=\count183
+\makeMPintoPDFobject=\count184
 \everyMPtoPDFconversion=\toks45
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1160,7 +1192,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box70
-Package hyperref Info: Link coloring ON on input line 170.
+Package hyperref Info: Link coloring ON on input line 218.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1168,11 +1200,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count180
+\c@section@level=\count185
 )
-LaTeX Info: Redefining \ref on input line 170.
-LaTeX Info: Redefining \pageref on input line 170.
-LaTeX Info: Redefining \nameref on input line 170.
+LaTeX Info: Redefining \ref on input line 218.
+LaTeX Info: Redefining \pageref on input line 218.
+LaTeX Info: Redefining \nameref on input line 218.
 
 (./pi.out) (./pi.out)
 \@outlinefile=\write4
@@ -1186,24 +1218,24 @@ LaTeX Info: Redefining \nameref on input line 170.
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
+* modes: includehead includefoot heightrounded 
 * h-part:(L,W,R)=(113.81102pt, 398.3386pt, 85.35826pt)
-* v-part:(T,H,B)=(85.35826pt, 645.87756pt, 113.81102pt)
+* v-part:(T,H,B)=(85.35826pt, 702.78308pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=398.3386pt
-* \textheight=645.87756pt
+* \textheight=650.0pt
 * \oddsidemargin=41.54103pt
 * \evensidemargin=41.54103pt
-* \topmargin=-23.91173pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=11.0pt
-* \footskip=30.0pt
-* \marginparwidth=50.0pt
+* \topmargin=13.08827pt
+* \headheight=14.0pt
+* \headsep=7.11317pt
+* \topskip=12.0pt
+* \footskip=28.45274pt
+* \marginparwidth=35.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1213,201 +1245,328 @@ LaTeX Info: Redefining \nameref on input line 170.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(./content/Originalitas.tex
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 4.
-LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 4.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 218.
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 218.
+ (./content/cover.tex
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <12> not available
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 4.
-LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 9
-.
+(Font)              scaled to size 12.0pt on input line 5.
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 17.28pt on input line 6.
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 7.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.4pt on input line 7.
+Package epstopdf Info: Source file: <./img/LogoGundar.eps>
+(epstopdf)                    date: 2008-02-21 22:03:14
+(epstopdf)                    size: 166374 bytes
+(epstopdf)             Output file: <./img/LogoGundar-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-03 10:30:45
+(epstopdf)                    size: 17340 bytes
+(epstopdf)             Command: <repstopdf --outfile=./img/LogoGundar-eps-conve
+rted-to.pdf ./img/LogoGundar.eps>
+(epstopdf)             \includegraphics on input line 13.
+Package epstopdf Info: Output file is already uptodate.
+
+<./img/LogoGundar-eps-converted-to.pdf, id=286, 164.615pt x 161.60374pt>
+File: ./img/LogoGundar-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./img/LogoGundar-eps-converted-to.pdf>
+Package pdftex.def Info: ./img/LogoGundar-eps-converted-to.pdf used on input li
+ne 13.
+(pdftex.def)             Requested size: 164.6146pt x 161.60335pt.
+LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 2
+5.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
 File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 9.
+(Font)              scaled to size 12.0pt on input line 25.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 9.
+(Font)              scaled to size 8.8pt on input line 25.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.1pt on input line 9.
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 9.
+(Font)              scaled to size 6.6pt on input line 25.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 25.
+
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2016/01/31 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 9.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 25.
+
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 9.
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 25.
+
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
-)
-Overfull \hbox (10.07024pt too wide) in paragraph at lines 9--16
-[][] 
- []
+))
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--28
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--28
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--28
-
- []
-
-) (./content/LembarPengesahan.tex [1
-
-
-
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (10.07024pt too wide) in paragraph at lines 7--14
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--25
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--25
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--36
-
- []
-
-) (./content/Abstrak.tex [2
-
-]) (./content/KataPengantar.tex [3
-
-]
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 7.
- [4
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 35--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--41
-
- []
-
-)
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5] (./pi.lof)
-\tf@lof=\write5
-\openout5 = `pi.lof'.
-
- [6
-
-] (./pi.lot)
-\tf@lot=\write6
-\openout6 = `pi.lot'.
-
- [7
-
-] (./pi.toc
-LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 2.
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.95pt on input line 2.
- [8
-
-])
-\tf@toc=\write7
-\openout7 = `pi.toc'.
-
- [9] (./content/Bab1.tex
-BAB 1.
 [1
 
-
-] [2] [3]
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/L
+ogoGundar-eps-converted-to.pdf>] (./content/Originalitas.tex
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 59.
-LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <12> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 59.
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 59.
- [4]) (./content/Bab2.tex [5]
-BAB 2.
-[6
+(Font)              scaled to size 14.4pt on input line 4.
 
-]
-LaTeX Font Info:    Font shape `T1/ntxtlf/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/ntxtlf/b/it' tried instead on input line 18.
+Overfull \hbox (69.78143pt too wide) in paragraph at lines 12--19
+[][] 
+ []
 
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/it' will be
-(Font)              scaled to size 10.95pt on input line 18.
-LaTeX Font Info:    Font shape `T1/ntxtlf/bx/it' in size <12> not available
-(Font)              Font shape `T1/ntxtlf/b/it' tried instead on input line 33.
 
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/it' will be
-(Font)              scaled to size 12.0pt on input line 33.
- [7] [8] [9] [10] [11]
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 86.
-LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 87.
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.0pt on input line 87.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 87.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.3pt on input line 87.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 5.5pt on input line 87.
-LaTeX Font Info:    Try loading font information for T1+qhv on input line 89.
+) (./content/LembarPengesahan.tex [2
+
+
+
+]
+Overfull \hbox (69.78143pt too wide) in paragraph at lines 7--14
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
+
+ []
+
+) (./content/Abstrak.tex [3
+
+]
+Overfull \hbox (8.06854pt too wide) in paragraph at lines 12--13
+[]\T1/ntxtlf/m/n/12 APLIKASI PER-HI-TUN-GAN BI-AYA JASA AMA-ZON AWS DEN-GAN MEN
+G-
+ []
+
+
+Overfull \hbox (21.10184pt too wide) in paragraph at lines 12--13
+\T1/ntxtlf/m/n/12 GU-NAKAN BA-HASA PEM-RO-GRA-MAN FUNG-SIONAL HASKELL DAN METOD
+E
+ []
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 12.0pt on input line 17.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--20
+
+ []
+
+LaTeX Font Info:    Try loading font information for T1+qhv on input line 22.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 89.
+(Font)              scaled to size 10.79993pt on input line 22.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 9.85492pt on input line 89.
+(Font)              scaled to size 10.79993pt on input line 22.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+) (./content/KataPengantar.tex [4
+
+]
+Missing character: There is no â in font ntx-Regular-tlf-ot1!
+Missing character: There is no € in font ntx-Regular-tlf-ot1!
+Missing character: There is no “ in font ntx-Regular-tlf-ot1!
+Missing character: There is no â in font ntx-Regular-tlf-ot1!
+Missing character: There is no € in font ntx-Regular-tlf-ot1!
+Missing character: There is no “ in font ntx-Regular-tlf-ot1!
+ [5
+
+])
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6] (./pi.toc [7]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[9])
+\tf@toc=\write5
+\openout5 = `pi.toc'.
+
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10] (./pi.lof [11
+
+])
+\tf@lof=\write6
+\openout6 = `pi.lof'.
+
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[12] (./pi.lot)
+\tf@lot=\write7
+\openout7 = `pi.lot'.
+
+ [13
+
+] (./content/Bab1.tex
+BAB I.
+[1
+
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4]) (./content/Bab2.tex
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6]
+BAB II.
+[7
+
+]
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/it' in size <12> not available
+(Font)              Font shape `T1/ntxtlf/b/it' tried instead on input line 18.
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/it' will be
+(Font)              scaled to size 12.0pt on input line 18.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[9]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[11]
+Overfull \hbox (2.54079pt too wide) in paragraph at lines 63--64
+[] \T1/ntxtlf/m/n/12 Pada tahun 2010, komite Haskell men-gelu-arkan la-po-ran k
+em-bali yang berisikan
+ []
+
+
+Overfull \hbox (0.9809pt too wide) in paragraph at lines 63--64
+\T1/ntxtlf/m/n/12 berba-gai stan-darisasi dan perkem-ban-gan dari pengem-ban-ga
+n ba-hasa Haskell. Hingga
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.95pt on input line 79.
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[13]
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 80.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.95pt on input line 80.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.95pt on input line 80.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 80.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.1pt on input line 80.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
@@ -1416,269 +1575,834 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.0pt on input line 94.
+(Font)              scaled to size 10.95pt on input line 87.
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
 
 
-Overfull \hbox (12.47112pt too wide) in paragraph at lines 110--111
-[]\T1/ntxtlf/m/n/10.95 Dari ke-dua fungsi terse-but, da-pat diband-ingkan bahwa
- deklarasi fungsi pada C++ dimungkinkan
- []
-
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
 
  []
 
 LaTeX Font Info:    Try loading font information for TS1+ntxtlf on input line 1
-51.
+42.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 151.
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
-
- []
-
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
-
- []
+(Font)              scaled to size 10.95pt on input line 142.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--184
-
- []
-
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 200--201
-
- []
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 221--222
+Underfull \hbox (badness 10000) in paragraph at lines 146--148
 
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
+Underfull \hbox (badness 10000) in paragraph at lines 170--172
 
  []
 
-[18] [19] <./img/event.png, id=481, 441.65pt x 220.825pt>
-File: ./img/event.png Graphic file (type png)
 
-<use ./img/event.png>
-Package pdftex.def Info: ./img/event.png used on input line 259.
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--188
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[23] <./img/event.png, id=683, 441.65pt x 220.825pt>
+File: ./img/event.png Graphic file (type png)
+ <use ./img/event.png>
+Package pdftex.def Info: ./img/event.png used on input line 240.
 (pdftex.def)             Requested size: 331.23668pt x 165.61833pt.
- [20] <./img/behavior.png, id=486, 441.65pt x 220.825pt>
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[24 <./img/event.png>] <./img/behavior.png, id=689, 441.65pt x 220.825pt>
 File: ./img/behavior.png Graphic file (type png)
 
 <use ./img/behavior.png>
-Package pdftex.def Info: ./img/behavior.png used on input line 268.
+Package pdftex.def Info: ./img/behavior.png used on input line 249.
 (pdftex.def)             Requested size: 331.23668pt x 165.61833pt.
- <./img/dynamic.png, id=487, 441.65pt x 220.825pt>
+ <./img/dynamic.png, id=690, 441.65pt x 220.825pt>
 File: ./img/dynamic.png Graphic file (type png)
 
 <use ./img/dynamic.png>
-Package pdftex.def Info: ./img/dynamic.png used on input line 279.
+Package pdftex.def Info: ./img/dynamic.png used on input line 260.
 (pdftex.def)             Requested size: 331.23668pt x 165.61833pt.
- [21 <./img/event.png> <./img/behavior.png>] [22 <./img/dynamic.png>] [23]
-(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
+
+Overfull \hbox (2.98471pt too wide) in paragraph at lines 266--267
+[] \T1/ntxtlf/m/n/12 Kon-sep \T1/ntxtlf/m/it/12 event \T1/ntxtlf/m/n/12 dan \T1
+/ntxtlf/m/it/12 dy-namic \T1/ntxtlf/m/n/12 adalah yang pal-ing ser-ing di-gu-na
+kan dalam pengem-
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[25 <./img/behavior.png> <./img/dynamic.png>]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[26]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[27] (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 326--327
-
- []
-
-[24] [25]
-Underfull \hbox (badness 10000) in paragraph at lines 367--368
-
- []
-
-[26]
-Underfull \hbox (badness 10000) in paragraph at lines 376--378
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--390
-
- []
-
-[27]
-Overfull \hbox (26.10373pt too wide) in paragraph at lines 404--405
-\T1/ntxtlf/m/n/10.95 (\T1/ntxtlf/m/it/10.95 quick ref-er-ence\T1/ntxtlf/m/n/10.
-95 ) yang ter-tulis dalam doku-men-tasi resmi pus-taka re-flex [3 https://githu
-b.com/reflex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 404--405
-
- []
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
 [28]
-Overfull \hbox (2.48488pt too wide) in paragraph at lines 429--430
-[]\T1/ntxtlf/m/n/10.95 Pustaka JSad-dle meru-pakan se-buah pus-taka an-tar-muka
- un-tuk ba-hasa pem-ro-gra-man Javascript
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[29]
+Overfull \hbox (11.78485pt too wide) in paragraph at lines 340--342
+\T1/ntxtlf/m/n/12 menye-suaikan out-put dari se-tiap fungsi pada Reflex-Dom den
+-gan komponen-komponen
  []
 
-) (./content/Bab3.tex [29]
-BAB 3.
-[30
+
+Overfull \hbox (0.17957pt too wide) in paragraph at lines 340--342
+\T1/ntxtlf/m/n/12 HTML se-hingga ma-nip-u-lasi fungsi yang di-t-ulis den-gan ba
+-hasa pem-ro-gra-man Haskell
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 352--354
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[31]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[32]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 410--411
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[34]) (./content/Bab3.tex
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[35]
+BAB III.
+[36
 
 ]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-[31] <./img/appStore.png, id=595, 358.33875pt x 132.495pt>
+[37] <./img/appStore.png, id=811, 358.33875pt x 132.495pt>
 File: ./img/appStore.png Graphic file (type png)
 
 <use ./img/appStore.png>
-Package pdftex.def Info: ./img/appStore.png used on input line 81.
+Package pdftex.def Info: ./img/appStore.png used on input line 80.
 (pdftex.def)             Requested size: 358.33788pt x 132.49466pt.
- <./img/xcode.png, id=597, 196.735pt x 110.4125pt>
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[38] <./img/appStore1.png, id=817, 1245.65375pt x 897.3525pt>
+File: ./img/appStore1.png Graphic file (type png)
+
+<use ./img/appStore1.png>
+Package pdftex.def Info: ./img/appStore1.png used on input line 89.
+(pdftex.def)             Requested size: 398.3386pt x 286.95328pt.
+ <./img/xcode.png, id=818, 196.735pt x 110.4125pt>
 File: ./img/xcode.png Graphic file (type png)
 
 <use ./img/xcode.png>
-Package pdftex.def Info: ./img/xcode.png used on input line 88.
-(pdftex.def)             Requested size: 196.7345pt x 110.41222pt.
- [32 <./img/appStore.png>]
-Overfull \hbox (1.52838pt too wide) in paragraph at lines 102--103
-\T1/ntxtlf/m/n/10.95 dist-[]newstyle / build / x86 _ 64-[]osx / ghc-[]8 . 0 . 2
- / awspi-[]0 . 0 . 0 . 1 / build/$[][] dalam ben-tuk ek-stensi '.app'.
+Package pdftex.def Info: ./img/xcode.png used on input line 99.
+(pdftex.def)             Requested size: 398.3386pt x 223.57394pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[39 <./img/appStore.png> <./img/appStore1.png>]
+<./img/xcodeCmd.png, id=825, 605.26125pt x 97.36375pt>
+File: ./img/xcodeCmd.png Graphic file (type png)
+
+<use ./img/xcodeCmd.png>
+Package pdftex.def Info: ./img/xcodeCmd.png used on input line 107.
+(pdftex.def)             Requested size: 398.3386pt x 64.07751pt.
+
+<./img/xcodeCmd1.png, id=826, 466.74374pt x 162.6075pt>
+File: ./img/xcodeCmd1.png Graphic file (type png)
+
+<use ./img/xcodeCmd1.png>
+Package pdftex.def Info: ./img/xcodeCmd1.png used on input line 115.
+(pdftex.def)             Requested size: 398.3386pt x 138.78273pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[40 <./img/xcode.png> <./img/xcodeCmd.png>]
+<./img/xcodeCmd2.png, id=833, 503.8825pt x 163.61125pt>
+File: ./img/xcodeCmd2.png Graphic file (type png)
+
+<use ./img/xcodeCmd2.png>
+Package pdftex.def Info: ./img/xcodeCmd2.png used on input line 121.
+(pdftex.def)             Requested size: 398.3386pt x 129.34134pt.
+ <./img/ghc.png, id=834, 1312.905pt x 719.68875pt>
+File: ./img/ghc.png Graphic file (type png)
+
+<use ./img/ghc.png>
+Package pdftex.def Info: ./img/ghc.png used on input line 132.
+(pdftex.def)             Requested size: 398.3386pt x 218.35718pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[41 <./img/xcodeCmd1.png> <./img/xcodeCmd2.png>]
+<./img/ghc1.png, id=841, 1300.86pt x 174.6525pt>
+File: ./img/ghc1.png Graphic file (type png)
+ <use ./img/ghc1.png>
+Package pdftex.def Info: ./img/ghc1.png used on input line 138.
+(pdftex.def)             Requested size: 398.3386pt x 53.48079pt.
+
+<./img/ghc2.png, id=842, 625.33624pt x 383.4325pt>
+File: ./img/ghc2.png Graphic file (type png)
+ <use ./img/ghc2.png>
+Package pdftex.def Info: ./img/ghc2.png used on input line 148.
+(pdftex.def)             Requested size: 398.3386pt x 244.24922pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[42 <./img/ghc.png> <./img/ghc1.png>]
+<./img/ghc3.png, id=850, 450.68375pt x 41.15375pt>
+File: ./img/ghc3.png Graphic file (type png)
+ <use ./img/ghc3.png>
+Package pdftex.def Info: ./img/ghc3.png used on input line 155.
+(pdftex.def)             Requested size: 398.3386pt x 36.37552pt.
+
+<./img/source.png, id=852, 1002.74625pt x 812.03375pt>
+File: ./img/source.png Graphic file (type png)
+ <use ./img/source.png>
+Package pdftex.def Info: ./img/source.png used on input line 166.
+(pdftex.def)             Requested size: 426.7965pt x 284.52583pt.
+
+Overfull \hbox (28.4579pt too wide) in paragraph at lines 166--167
+ [][] 
  []
 
-<./img/awspi.png, id=608, 1178.4025pt x 874.26625pt>
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[43 <./img/ghc2.png> <./img/ghc3.png>]
+<./img/awspi.png, id=860, 1178.4025pt x 874.26625pt>
 File: ./img/awspi.png Graphic file (type png)
  <use ./img/awspi.png>
-Package pdftex.def Info: ./img/awspi.png used on input line 106.
-(pdftex.def)             Requested size: 426.79585pt x 284.52003pt.
+Package pdftex.def Info: ./img/awspi.png used on input line 177.
+(pdftex.def)             Requested size: 199.15701pt x 99.58467pt.
 
-Overfull \hbox (28.45726pt too wide) in paragraph at lines 106--107
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[44 <./img/source.png> <./img/awspi.png>]
+Overfull \hbox (65.3046pt too wide) in paragraph at lines 253--254
  [][] 
  []
 
-[33 <./img/xcode.png>]
-Overfull \hbox (65.00464pt too wide) in paragraph at lines 170--171
- [][] 
- []
 
-[34 <./img/awspi.png>] <./img/aws3.png, id=624, 851.18pt x 838.13126pt>
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[45] <./img/aws3.png, id=871, 851.18pt x 838.13126pt>
 File: ./img/aws3.png Graphic file (type png)
-
-<use ./img/aws3.png>
-Package pdftex.def Info: ./img/aws3.png used on input line 178.
+ <use ./img/aws3.png>
+Package pdftex.def Info: ./img/aws3.png used on input line 263.
 (pdftex.def)             Requested size: 284.52689pt x 284.52603pt.
- [35] <./img/aws4.png, id=629, 304.13625pt x 644.4075pt>
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[46 <./img/aws3.png>] <./img/aws4.png, id=877, 304.13625pt x 644.4075pt>
 File: ./img/aws4.png Graphic file (type png)
 
 <use ./img/aws4.png>
-Package pdftex.def Info: ./img/aws4.png used on input line 185.
+Package pdftex.def Info: ./img/aws4.png used on input line 273.
 (pdftex.def)             Requested size: 227.62827pt x 284.5333pt.
- [36 <./img/aws3.png>]
 File: ./img/awspi.png Graphic file (type png)
  <use ./img/awspi.png>
-Package pdftex.def Info: ./img/awspi.png used on input line 194.
+Package pdftex.def Info: ./img/awspi.png used on input line 280.
 (pdftex.def)             Requested size: 426.79585pt x 284.52003pt.
 
-Overfull \hbox (28.45726pt too wide) in paragraph at lines 194--194
+Overfull \hbox (28.45726pt too wide) in paragraph at lines 280--280
  [][] 
  []
 
-[37 <./img/aws4.png>] <./img/aws2.png, id=640, 1180.41pt x 875.27pt>
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[47 <./img/aws4.png>] <./img/aws2.png, id=883, 1180.41pt x 875.27pt>
 File: ./img/aws2.png Graphic file (type png)
 
 <use ./img/aws2.png>
-Package pdftex.def Info: ./img/aws2.png used on input line 200.
+Package pdftex.def Info: ./img/aws2.png used on input line 286.
 (pdftex.def)             Requested size: 426.78447pt x 284.52615pt.
 
-Overfull \hbox (28.44588pt too wide) in paragraph at lines 200--200
+Overfull \hbox (28.44588pt too wide) in paragraph at lines 286--286
  [][] 
  []
 
-[38 <./img/aws2.png>] [39]
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--293
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[48 <./img/aws2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[51]
+LaTeX Font Info:    Font shape `T1/qhv/bx/n' in size <12> not available
+(Font)              Font shape `T1/qhv/b/n' tried instead on input line 346.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 10.79993pt on input line 346.
+LaTeX Font Info:    Font shape `T1/qhv/bx/it' in size <12> not available
+(Font)              Font shape `T1/qhv/b/it' tried instead on input line 346.
+LaTeX Font Info:    Font shape `T1/qhv/b/it' will be
+(Font)              scaled to size 10.79993pt on input line 346.
 File: ./img/aws2.png Graphic file (type png)
  <use ./img/aws2.png>
-Package pdftex.def Info: ./img/aws2.png used on input line 251.
+Package pdftex.def Info: ./img/aws2.png used on input line 351.
 (pdftex.def)             Requested size: 426.78447pt x 284.52615pt.
 
-Overfull \hbox (28.44588pt too wide) in paragraph at lines 251--252
+Overfull \hbox (28.44588pt too wide) in paragraph at lines 351--352
  [][] 
  []
 
-[40] [41] [42] [43] [44] [45]) (./content/Bab4.tex [46]
-BAB 4.
-[47
 
-]) (./content/DaftarPustaka.tex [48] [49
+Underfull \hbox (badness 10000) in paragraph at lines 355--356
 
-]) (./content/Lampiran.tex [50])
-[51
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[52]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[54]
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
+
+ []
+
+
+Overfull \hbox (16.32144pt too wide) in paragraph at lines 422--423
+[]\T1/ntxtlf/m/n/12 Parameter ketiga (\T1/qhv/m/it/12 dynAttrs\T1/ntxtlf/m/n/12
+ ) adalah pa-ram-e-ter bertipe data \T1/qhv/m/it/12 Dy-namic t (Map.Map
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 429--430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--440
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[57]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 477--478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 482--483
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--512
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[60]
+Underfull \hbox (badness 10000) in paragraph at lines 531--532
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[61]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[62]) (./content/Bab4.tex
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[63]
+BAB IV.
+[64
+
+]) (./content/DaftarPustaka.tex
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[65]
+Overfull \hbox (11.1599pt too wide) in paragraph at lines 16--18
+\T1/ntxtlf/m/n/12 https://github.com/reflex-frp/reflex-dom/blob/develop/Quickre
+f.md, 5 Juli 2017. 
+ []
+
+) (./content/Lampiran.tex [66
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 206.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 206.
+<./img/output1.png, id=1139, 1178.4025pt x 895.345pt>
+File: ./img/output1.png Graphic file (type png)
+ <use ./img/output1.png>
+Package pdftex.def Info: ./img/output1.png used on input line 18.
+(pdftex.def)             Requested size: 426.79585pt x 284.53528pt.
+
+Overfull \hbox (28.45726pt too wide) in paragraph at lines 18--19
+ [][] 
+ []
+
+<./img/output2.png, id=1140, 1176.395pt x 900.36375pt>
+File: ./img/output2.png Graphic file (type png)
+ <use ./img/output2.png>
+Package pdftex.def Info: ./img/output2.png used on input line 24.
+(pdftex.def)             Requested size: 426.78679pt x 284.52281pt.
+
+Overfull \hbox (28.4482pt too wide) in paragraph at lines 24--25
+ [][] 
+ []
+
+[1
+
+ <./img/output1.png>]
+<./img/output3.png, id=1146, 1178.4025pt x 898.35625pt>
+File: ./img/output3.png Graphic file (type png)
+
+<use ./img/output3.png>
+Package pdftex.def Info: ./img/output3.png used on input line 30.
+(pdftex.def)             Requested size: 426.79585pt x 284.51898pt.
+
+Overfull \hbox (28.45726pt too wide) in paragraph at lines 30--31
+ [][] 
+ []
+
+<./img/output4.png, id=1147, 1174.3875pt x 895.345pt>
+File: ./img/output4.png Graphic file (type png)
+ <use ./img/output4.png>
+Package pdftex.def Info: ./img/output4.png used on input line 36.
+(pdftex.def)             Requested size: 426.7932pt x 284.53528pt.
+
+Overfull \hbox (28.4546pt too wide) in paragraph at lines 36--37
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2 <./img/output2.png> <./img/output3.png>]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3 <./img/output4.png>]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7]
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8])
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[9]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 282.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 282.
  (./pi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 206.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 206.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 282.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 282.
 Package rerunfilecheck Info: File `pi.out' has not changed.
-(rerunfilecheck)             Checksum: DBE07279CE2960ADD2B01A46B5C137E0;3254.
+(rerunfilecheck)             Checksum: 7E0E8C43C63806ADF712A8A9FC427AFB;5508.
  ) 
 Here is how much of TeX's memory you used:
- 25791 strings out of 492995
- 472064 string characters out of 6132705
- 754718 words of memory out of 5000000
- 28367 multiletter control sequences out of 15000+600000
- 76026 words of font info for 102 fonts, out of 8000000 for 9000
+ 26566 strings out of 492995
+ 483510 string characters out of 6132705
+ 761149 words of memory out of 5000000
+ 28887 multiletter control sequences out of 15000+600000
+ 77285 words of font info for 103 fonts, out of 8000000 for 9000
  1150 hyphenation exceptions out of 8191
- 55i,12n,100p,1260b,2309s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/
-local/texlive/2017/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/local/tex
+ 55i,12n,100p,1767b,2503s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/l
+ocal/texlive/2017/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/local/tex
 live/2017/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/local/texlive/
 2017/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2017/texmf-dist
 /fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2017/texmf-dist/fonts
-/type1/public/tex-gyre/qhvri.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
-1/public/tex-gyre/qtmb.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
-ic/tex-gyre/qtmbi.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/te
-x-gyre/qtmr.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/tex-gyre
-/qtmri.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/txfonts/rtxmi
-.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></
-usr/local/texlive/2017/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/loca
-l/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on pi.pdf (60 pages, 806709 bytes).
+/type1/public/tex-gyre/qhvbi.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
+1/public/tex-gyre/qhvri.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pub
+lic/tex-gyre/qtmb.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/te
+x-gyre/qtmbi.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/tex-gyr
+e/qtmr.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/tex-gyre/qtmr
+i.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on pi.pdf (88 pages, 3890186 bytes).
 PDF statistics:
- 964 PDF objects out of 1000 (max. 8388607)
- 869 compressed objects within 9 object streams
- 411 named destinations out of 1000 (max. 500000)
- 410 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1493 PDF objects out of 1728 (max. 8388607)
+ 1336 compressed objects within 14 object streams
+ 641 named destinations out of 1000 (max. 500000)
+ 688 words of extra memory for PDF output out of 10000 (max. 10000000)
 

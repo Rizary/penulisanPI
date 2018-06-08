@@ -1,9 +1,9 @@
-\documentclass[a4paper,11pt,oneside]{report}
+\documentclass[a4paper,12pt,oneside]{report}
 \usepackage[english]{babel}
 \usepackage{subfiles}
 \usepackage{blindtext}
 \usepackage{parskip}
-\usepackage{indentfirst}
+
 \usepackage{titlesec}
 \usepackage{listings}
 \lstset{
@@ -12,12 +12,10 @@
     postbreak=\raisebox{0ex}[0ex][0ex]{\ensuremath{\color{red}\hookrightarrow\space}}
 }
 
-
-\usepackage{helvet}
 \newcommand{\fhaskell}[1]{\textsf{\itshape #1}}%
 
 \usepackage{newtxtext,newtxmath}
-\usepackage[document]{ragged2e}
+
 
 \usepackage{tikz}
 \usetikzlibrary{shapes,arrows}
@@ -39,17 +37,6 @@
 
 \setcounter{secnumdepth}{4}
 
-\usepackage{geometry}
-\geometry{text={7in,9.5in}
-,left=4cm
-,top=4cm
-,right=3cm
-,bottom=3cm
-}
-
-%fancy
-
-
 \hyphenation{me-ru-bah}
 \hyphenation{per-tim-bang-an}
 \hyphenation{sangat-lah}
@@ -64,33 +51,23 @@
 \addto\captionsenglish{\renewcommand{\figurename}{Gambar }}
 \addto\captionsenglish{\renewcommand{\tablename}{Tabel }}
 
-
-
-
-
-\titleformat{\chapter}[display]
-            {\normalfont\Large\centering\bfseries}{\vspace{0pt}%
-              \chaptertitlename\ \thechapter}
-            {0ex}% sep
-            {
-              \vspace{0pt}%
-              \centering
-            }
-            [
-              \vspace{0pt}%
-            ]
-
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhf{}
-\renewcommand{\headrulewidth}{0pt}
-\fancyhead[R]{\thepage}
+\makeatletter
+\def\ttl@mkchap@i#1#2#3#4#5#6#7{%
+  \ttl@assign\@tempskipa#3\relax\beforetitleunit
+  %\vspace*{\@tempskipa}% NEW
+  \global\@afterindenttrue
+  \ifcase#5 \global\@afterindentfalse\fi
+  \ttl@assign\@tempskipb#4\relax\aftertitleunit
+  \ttl@topmode{\@tempskipb}{%
+    \ttl@select{#6}{#1}{#2}{#7}}%
+  \ttl@finmarks  % Outside the box!
+  \@ifundefined{ttlp@#6}{}{\ttlp@write{#6}}}
+\makeatother
 
 \usepackage{color}
 
 \definecolor{lightgray}{rgb}{0.95, 0.95, 0.95}
 \definecolor{darkgray}{rgb}{0.4, 0.4, 0.4}
-%\definecolor{purple}{rgb}{0.65, 0.12, 0.82}
 \definecolor{editorGray}{rgb}{0.95, 0.95, 0.95}
 \definecolor{editorOcher}{rgb}{1, 0.5, 0} % #FF7F00 -> rgb(239, 169, 0)
 \definecolor{editorGreen}{rgb}{0, 0.5, 0} % #007C00 -> rgb(0, 124, 0)
@@ -103,7 +80,7 @@
 
 \usepackage{upquote}
 
-\setlength\parindent{20pt}
+\setlength\parindent{24pt}
 \newlength\mylen
 \setlength\mylen{\parindent}
 
@@ -115,40 +92,66 @@
 \newlength\subsub
 \setlength\subsub{20pt}
 
-\setlength{\parskip}{1.5em}
-\titlespacing*{\chapter} {0pt} {0pt} {0pt}
 
-\renewcommand\thesection{\arabic{section}}
+\addto{\captionsenglish}{\renewcommand*{\contentsname}{DAFTAR ISI}}
+\addto{\captionsenglish}{\renewcommand*{\listfigurename}{DAFTAR GAMBAR}}
+\addto{\captionsenglish}{\renewcommand*{\listtablename}{DAFTAR TABEL}}
+
+\usepackage{tocloft,calc}
+
+\renewcommand{\cfttoctitlefont}{\hfill\bfseries\Large\MakeUppercase}
+\renewcommand{\cftchappresnum}{\chaptername\space\space}
+\renewcommand{\cftsecpresnum}{\thechapter}
+\setlength{\cftchapnumwidth}{\widthof{\textbf{Bab999~}}}
+\renewcommand\cftsecindent{4em}
+\renewcommand\cftsecnumwidth{2em}
+\renewcommand\cftsubsecindent{6em}
+\renewcommand\cftsubsecnumwidth{3em}
+\renewcommand\cftsubsubsecindent{9em}
+\renewcommand\cftsubsubsecnumwidth{3.5em}
+\renewcommand{\cftaftertoctitle}{\hfill}
+\renewcommand{\cftloftitlefont}{\hfill\bfseries\Large\MakeUppercase}
+\renewcommand{\cftafterloftitle}{\hfill}
+\renewcommand{\cftlottitlefont}{\hfill\bfseries\Large\MakeUppercase}
+\renewcommand{\cftafterlottitle}{\hfill}
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+
+
+
+\renewcommand{\thefigure}{\arabic{chapter}.\arabic{figure}}
+\renewcommand{\thetable}{\arabic{chapter}.\arabic{table}}
+
+\makeatother
+
+\usepackage{enumitem}
+
+\renewcommand{\thechapter}{\Roman{chapter}}
+\titleformat{\chapter}[display]
+    {\normalfont\large\bfseries\centering}
+    {\large\chaptertitlename\ \thechapter}
+    {0.25cm}
+    {}
+
+\renewcommand\thesection{\arabic{chapter}.\arabic{section}}
 \titleformat{\section}
-  {\normalfont\Large\bfseries}
+  {\normalfont\normalsize\bfseries}
   {\makebox[\mylen][l]{\thesection.}}
-  {0pt}
+  {5pt}
   {}
-\titlespacing*{\section} {0pt} {0pt} {0pt}
 
 \renewcommand\thesubsection{\thesection.\arabic{subsection}}
 \titleformat{\subsection}
-  {\normalfont\large\bfseries}
+  {\normalfont\normalsize\bfseries}
   {\makebox[\subsec][l]{\thesubsection.}}
-  {7pt}
+  {14pt}
   {}
-\titlespacing*{\subsection} {0pt} {0pt} {0pt}
 
 \renewcommand\thesubsubsection{\thesubsection.\arabic{subsubsection}}
 \titleformat{\subsubsection}
   {\normalfont\normalsize\bfseries}
   {\makebox[\subsub][l]{\thesubsubsection.}}
-  {12pt}
+  {20pt}
   {}
-\titlespacing*{\subsubsection} {0pt} {0pt} {0pt}
-  \usepackage{setspace}
-  \onehalfspacing
-
-  \linespread{1.3}
-
-\addto{\captionsenglish}{\renewcommand*{\contentsname}{DAFTAR ISI}}
-\addto{\captionsenglish}{\renewcommand*{\listfigurename}{DAFTAR GAMBAR}}
-\addto{\captionsenglish}{\renewcommand*{\listtablename}{DAFTAR TABEL}}
 
 \lstdefinestyle{customHaskell}{
   language=Haskell,
@@ -159,34 +162,96 @@
   showspaces=false,
   showstringspaces=false,
   float,
-  frame=single
+  frame=single,
+  framexleftmargin=0pt
 }
 
-\lstset{basicstyle=\small,style=customHaskell,}
+\lstset{basicstyle=\small,
+        xleftmargin=0.75cm,
+        xrightmargin=0.25cm,
+        style=customHaskell
+       }
+\usepackage[
+  a4paper,
+  headsep=0.25cm,
+  top=3cm,
+  footskip=1cm,
+  bottom=2cm,
+  left=4cm,
+  right=3cm,
+  headheight=14pt, % as per the warning by fancyhdr
+  includehead,includefoot,
+  heightrounded
+  ]{geometry}
 
-\geometry{a4paper, lmargin=4cm, rmargin=3cm, tmargin=3cm, bmargin=4cm}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead[R]{\thepage}
 
+
+\fancypagestyle{plain}{%
+\fancyhf{} % clear all header and footer fields
+\fancyfoot[C]{\bfseries \thepage} % except the center
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}}
+
+\usepackage{hyperref}
+
+\usepackage{indentfirst}
+
+\usepackage[document]{ragged2e}
+\setlength{\JustifyingParindent}{\mylen}
+\setlength{\parskip}{0pt}
+
+%[leftmargin=0.65cm] 2nd item
+%[leftmargin=1.25cm] 1st item
+% [leftmargin=1.65cm] in subsubsection
+%\hspace{6pt} subsection
+%\hspace{11pt} subsubsection
+  \usepackage{setspace}
+  \onehalfspacing
+
+  \linespread{1.5}
 
 \begin{document}
+
 \begin{justifying}
+
+  \pagenumbering{gobble}
+  \subfile{content/cover}
  
   \cleardoublepage
   \pagenumbering{roman}
+  \addcontentsline{toc}{chapter}{HALAMAN JUDUL}
+  \newpage
+  \cleardoublepage
+  \setcounter{page}{2}
   \subfile{content/Originalitas}
+  
   \subfile{content/LembarPengesahan}
   \subfile{content/Abstrak}
   \subfile{content/KataPengantar}
-  
-
-  \listoffigures
- 
-  \listoftables
-
-  \tableofcontents
+\pagebreak
+  \setcounter{secnumdepth}{3}
+  \setcounter{tocdepth}{4}
   \addcontentsline{toc}{chapter}{DAFTAR ISI}
+  \newpage
+  \tableofcontents
   
   \cleardoublepage
-  \setcounter{page}{3}
+  \addcontentsline{toc}{chapter}{DAFTAR GAMBAR}
+  \listoffigures
+
+  \cleardoublepage
+  \addcontentsline{toc}{chapter}{DAFTAR TABEL}
+  \listoftables
+  \pagebreak
+  
+  
+  \cleardoublepage
+  %\setcounter{page}{3}
   \pagenumbering{arabic}
   % BAB 1
   \subfile{content/Bab1}
@@ -200,8 +265,19 @@
   %BAB 4
   \subfile{content/Bab4}
 
+  
   \subfile{content/DaftarPustaka}
+  %\setcounter{page}{1}
+  \makeatletter
+  
+  %\renewcommand{\thepage}{\arabic{page}}
+
+  
   \subfile{content/Lampiran}
+  \renewcommand{\thepage}{L-\arabic{page}}
+  \newpage
+
+  
 \end{justifying}
 \end{document}
 
